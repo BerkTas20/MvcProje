@@ -1,5 +1,15 @@
 # MvcProje
-## ASP.NET Blog
+## ASP.NET MVC Blog
+
+# Welcome the ASP.NET CORE MVC BLOG SİTE!
+- In this course, we have developed a dynamic web project with user-admin-author modules for anyone with basic C# and SQL knowledge, without moving away from solid principles in N-tier architecture.
+- We developed our project in N-Layer architectural principles (Data Access, Entity, Business, Presentation) without moving away from Solid architecture.
+- What we learned in this project:
+Layout Kontrolü, Controller , N Layered Architecture, Repository Design Pattern, Generic Repository, Principle of Layered Architecture, Partial View,
+Code First, Entity Framework,  Model Structure, View Structure,  Linq Sorguları, Entity Framework Sorguları, Diagramlas, Trigger Structure
+Ready Template Installation and Editing , Dashboard
+
+
 
 # ASP.NET MVC İLE KURUMSAL KATMANSAL MİMARİ İLE HAZIRLANMIŞ OLAN BLOG PROJEME HOŞGELDİNİZ!
 - Bu kursta temel seviyede C# ve SQL bilgisi olan herkes için N katmanlı mimaride solid prensiplerinden uzaklaşmadan kullanıcı-admin-yazar modülleri bulunan dinamik bir web projesi geliştirdik.
@@ -8,3 +18,10 @@
 Layout Kontrolü, Controller Yapısı , N Katmanlı Mimari, Repository Design Pattern, Generic Repository, Katmanlı Mimari Prensibi, Partial View,
 Code First, Entity Framework,  Model Yapısı, View Yapısı,  Linq Sorguları, Entity Framework Sorguları, Diyagramlar, Trigger Kullanımı
 Hazır Template Kurulumu ve Düzenlenmesi , Dashboard
+
+--The database is ready, you can use it as you wish. Download the project. Restore the database in Mssql. 
+Then go to the index page of the project and right click(Blog/Index in) 
+Click View in browser!
+
+--Veritabanı da hazır istediğiniz gibi kullanabilirsiniz.Projeyi indirin .Veritabanını Mssql de Restore edin. Ardından projenin Index(Blog/Index içinde) sayfasına gelin ve sağ tıklayıp 
+View in browsere tıklayın !
