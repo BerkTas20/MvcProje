@@ -11,7 +11,7 @@ Ready Template Installation and Editing , Dashboard
 
 
 
-# ASP.NET MVC İLE KURUMSAL KATMANSAL MİMARİ İLE HAZIRLANMIŞ OLAN BLOG PROJEME HOŞGELDİNİZ! (TURKİSH)
+# ASP.NET MVC  KURUMSAL KATMANSAL MİMARİ İLE HAZIRLANMIŞ OLAN BLOG PROJEME HOŞGELDİNİZ! (TURKİSH)
 - Bu kursta temel seviyede C# ve SQL bilgisi olan herkes için N katmanlı mimaride solid prensiplerinden uzaklaşmadan kullanıcı-admin-yazar modülleri bulunan dinamik bir web projesi geliştirdik.
 - Projemizin N Katmanlı mimari prensiplerinde (DataAccess, Entity, Business, Presentation) Solid mimarisinden uzaklaşmadan geliştirdik.
 - Bu projede öğrendiklerimiz:
