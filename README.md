@@ -6,7 +6,7 @@
 - We developed our project in N-Layer architectural principles (Data Access, Entity, Business, Presentation) without moving away from Solid architecture.
 - What we learned in this project:
 Layout Structure, Controller Structure , N Layered Architecture, Repository Design Pattern, Generic Repository, Principle of Layered Architecture, Partial View,
-Code First, Entity Framework,  Model Structure, View Structure,  Linq Sorguları, Entity Framework Sorguları, Diagramlas, Trigger Structure
+Code First, Entity Framework,  Model Structure, View Structure,  Linq , Entity Framework Sorguları, Diagrams, Trigger Structure
 Ready Template Installation and Editing , Dashboard
 
 
