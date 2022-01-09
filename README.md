@@ -1,5 +1,5 @@
 # MvcProje
-## ASP.NET MVC Blog
+## ASP.NET MVC Blog (Kurumsal Katmansal Mimari)
 
 # Welcome the ASP.NET  MVC BLOG SİTE! (ENGLISH)
 - In this course, we have developed a dynamic web project with user-admin-author modules for anyone with basic C# and SQL knowledge, without moving away from solid principles in N-tier architecture.
