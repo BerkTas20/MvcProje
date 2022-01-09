@@ -1,0 +1,13 @@
+**Bu proje ASP.NET CORE MVC Kurumsal katmansal Mimari oluşturularak yapıldı.
+
+**Olabildiğince Solid prensiplerine uyulmaya çalışıldı.
+
+**Veritabanı işlemlerinde Entity framework ve code first yaklaşımı kullanıldı.
+
+**Yazar ve admin modulü detayları , hata sayfaları , yetkilendirme , pop-up gibi detaylar kullanıldı.
+
+**Sql Serverden gerekli veri tabanı komutları yazılarak bloglara puan verildi.
+
+**Abstract interfaceler , generate constructorlar , fluent validation gibi arkaplan kodları da eklendi.Arka plan kodları özenle çalışıldı.
+
+**Proje henüz canlıya taşınmadı.

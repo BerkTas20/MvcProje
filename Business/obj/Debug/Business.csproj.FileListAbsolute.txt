@@ -1,0 +1,17 @@
+C:\Users\murat\source\repos\MvcProje\Business\bin\Debug\Business.dll
+C:\Users\murat\source\repos\MvcProje\Business\bin\Debug\Business.pdb
+C:\Users\murat\source\repos\MvcProje\Business\bin\Debug\DataAccessLayer.dll
+C:\Users\murat\source\repos\MvcProje\Business\bin\Debug\EntityLayer.dll
+C:\Users\murat\source\repos\MvcProje\Business\bin\Debug\EntityFramework.dll
+C:\Users\murat\source\repos\MvcProje\Business\bin\Debug\DataAccessLayer.pdb
+C:\Users\murat\source\repos\MvcProje\Business\bin\Debug\DataAccessLayer.dll.config
+C:\Users\murat\source\repos\MvcProje\Business\bin\Debug\EntityLayer.pdb
+C:\Users\murat\source\repos\MvcProje\Business\bin\Debug\EntityLayer.dll.config
+C:\Users\murat\source\repos\MvcProje\Business\bin\Debug\EntityFramework.xml
+C:\Users\murat\source\repos\MvcProje\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\murat\source\repos\MvcProje\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\MvcProje\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\murat\source\repos\MvcProje\Business\obj\Debug\Business.dll
+C:\Users\murat\source\repos\MvcProje\Business\obj\Debug\Business.pdb
+C:\Users\murat\source\repos\MvcProje\Business\bin\Debug\FluentValidation.dll
+C:\Users\murat\source\repos\MvcProje\Business\bin\Debug\FluentValidation.xml
