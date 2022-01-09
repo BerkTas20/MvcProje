@@ -9,7 +9,9 @@ Layout Structure, Controller Structure , N Layered Architecture, Repository Desi
 Code First, Entity Framework,  Model Structure, View Structure,  Linq , Entity Framework Sorguları, Diagrams, Trigger Structure
 Ready Template Installation and Editing , Dashboard
 
-
+--The database is ready, you can use it as you wish. Download the project. Restore the database in Mssql. 
+Then go to the index page of the project and right click(Blog/Index in) 
+Click View in browser!
 
 # ASP.NET MVC  KURUMSAL KATMANSAL MİMARİ İLE HAZIRLANMIŞ OLAN BLOG PROJEME HOŞGELDİNİZ! (TURKİSH)
 - Bu kursta temel seviyede C# ve SQL bilgisi olan herkes için N katmanlı mimaride solid prensiplerinden uzaklaşmadan kullanıcı-admin-yazar modülleri bulunan dinamik bir web projesi geliştirdik.
@@ -19,9 +21,7 @@ Layout Kontrolü, Controller Yapısı , N Katmanlı Mimari, Repository Design Pa
 Code First, Entity Framework,  Model Yapısı, View Yapısı,  Linq Sorguları, Entity Framework Sorguları, Diyagramlar, Trigger Kullanımı
 Hazır Template Kurulumu ve Düzenlenmesi , Dashboard
 
---The database is ready, you can use it as you wish. Download the project. Restore the database in Mssql. 
-Then go to the index page of the project and right click(Blog/Index in) 
-Click View in browser!
+
 
 --Veritabanı da hazır istediğiniz gibi kullanabilirsiniz.Projeyi indirin .Veritabanını Mssql de Restore edin. Ardından projenin Index(Blog/Index içinde) sayfasına gelin ve sağ tıklayıp 
 View in browsere tıklayın !
