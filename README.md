@@ -2,7 +2,7 @@
 ## ASP.NET MVC Blog (Kurumsal Katmansal Mimari)
 
 # Welcome the ASP.NET  MVC BLOG SİTE! (ENGLISH)
-- In this course, we have developed a dynamic web project with user-admin-author modules for anyone with basic C# and SQL knowledge, without moving away from solid principles in N-tier architecture.
+- In this project, we have developed a dynamic web project with user-admin-author modules for anyone with basic C# and SQL knowledge, without moving away from solid principles in N-tier architecture.
 - We developed our project in N-Layer architectural principles (Data Access, Entity, Business, Presentation) without moving away from Solid architecture.
 - What we learned in this project:
 Layout Structure, Controller Structure , N Layered Architecture, Repository Design Pattern, Generic Repository, Principle of Layered Architecture, Partial View,
